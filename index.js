@@ -15,8 +15,6 @@
  * 3. Division should be integer division (e.g., 5 / 2 should return 2)
  * 4. Handle negative numbers correctly
  *
- * - Throw an error if the expression is invalid (e.g., too many operands or operators)
- *
  * Example usage:
  * evaluateRPN("3 4 +")        // returns 7
  * evaluateRPN("15 7 1 1 + - / 3 * 2 1 1 + + -") // returns 5
